@@ -1,6 +1,6 @@
-km=100000
+L=100000
 cm=int(input('enter value'))
-c=cm*km
+c=cm*L
 print('c',c)
 
 out put:
