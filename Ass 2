@@ -1,6 +1,6 @@
 L=100000
-cm=int(input('enter value'))
-c=cm*L
+a=int(input('enter value'))
+c=a*L
 print('c',c)
 
 out put:
